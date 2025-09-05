@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://sasoarescorretora.com.br/sitemap.xml
-
